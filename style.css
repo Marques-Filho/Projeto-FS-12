@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body {
+    background-image: url('https://static.vecteezy.com/ti/fotos-gratis/p2/6263904-fundo-abstrato-branco-pano-de-fundo-para-design-de-apresentacao-para-site-gratis-foto.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#titulo {
+    background-color: rgb(37, 57, 87);
+}
+
+button {
+    background-color: transparent;
+    border: transparent;  
+}
+
+.front-back-text {
+    text-align: justify;
+    font-size: 20px;
+}
+
+.img-depoi {
+    border: 6px groove #61caf3;
+    border-radius: 50%;
+}
